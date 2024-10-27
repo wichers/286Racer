@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DEVICE")(type "KiCad")(uri "${KIPRJMOD}/DEVICE.kicad_sym")(options "")(descr ""))
+  (lib (name "INTEL")(type "KiCad")(uri "${KIPRJMOD}/INTEL.kicad_sym")(options "")(descr ""))
+  (lib (name "MEMORY")(type "KiCad")(uri "${KIPRJMOD}/MEMORY.kicad_sym")(options "")(descr ""))
+  (lib (name "pwr")(type "KiCad")(uri "${KIPRJMOD}/pwr.kicad_sym")(options "")(descr ""))
+  (lib (name "PAL")(type "KiCad")(uri "${KIPRJMOD}/PAL.kicad_sym")(options "")(descr ""))
+  (lib (name "TTL")(type "KiCad")(uri "${KIPRJMOD}/TTL.kicad_sym")(options "")(descr ""))
+)
